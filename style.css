@@ -1,0 +1,26 @@
+.header
+{
+    background-color: rgba(37, 159, 177, 0.829);
+    position: center;
+    height: 25em;
+    
+}
+#myplane
+{
+ right: 14em;
+ position: center;
+ image-orientation: from-image;
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+height: 10em;
+width: 15em;
+
+}
+.short-links{
+    position: center;
+    margin-right: auto;
+    margin-right: auto;
+    display: inline;
+    padding: 9em;
+}
